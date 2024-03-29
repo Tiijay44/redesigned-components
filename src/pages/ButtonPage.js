@@ -7,7 +7,7 @@ import { CgDanger } from "react-icons/cg";
 import { IoIosCloudDone } from "react-icons/io";
 
 function ButtonPage() {
-  const handleClick = () => console.log("Click");
+  const handleClick = () => {};
   return (
     <div>
       <div>
